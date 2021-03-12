@@ -7,7 +7,14 @@ public class git {
 
 		System.out.println("I'm getting crazy");
 		
-		System.out.println("Whats up?");
+		System.out.println("OMG");
+		
+		System.out.println("OMG");
+		
+		System.out.println("OMG");
+		
+		
+		
 	}
 
 }
